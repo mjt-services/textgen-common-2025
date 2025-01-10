@@ -1,0 +1,1 @@
+{"version":3,"file":"PromptText.js","sourceRoot":"","sources":["../../src/textgen/PromptText.ts"],"names":[],"mappings":"","sourcesContent":["export type PromptText = {\n  text: string;\n  role: \"user\" | \"assistant\" | \"system\";\n};\n"]}

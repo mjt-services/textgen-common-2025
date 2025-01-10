@@ -1,0 +1,27 @@
+// modified for completion and better naming, see  https://openrouter.ai/docs#requests
+export const PROVIDERS = [
+    "OpenAI",
+    "Anthropic",
+    "HuggingFace",
+    "Google",
+    "Mancer",
+    "Mancer 2",
+    "Together",
+    "DeepInfra",
+    "Azure",
+    "Modal",
+    "AnyScale",
+    "Replicate",
+    "Perplexity",
+    "Recursal",
+    "Fireworks",
+    "Mistral",
+    "Groq",
+    "Cohere",
+    "Lepton",
+    "OctoAI",
+    "Novita",
+    "Lynn",
+    "Lynn 2",
+];
+//# sourceMappingURL=OpenRouterTextgenRequest.js.map

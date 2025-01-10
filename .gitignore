@@ -1,12 +1,8 @@
-data
-notes
 ._.DS_Store
-assets
-public
-dist
+src/html/images/
+src/html/fonts/
 certs
-.parcel-cache
-.bun
+sync
 
 lib-cov
 *.seed
@@ -22,6 +18,9 @@ pids
 logs
 results
 tmp
+
+# Build
+public/css/main.css
 
 # Coverage reports
 coverage
@@ -41,6 +40,9 @@ bower_components
 # OS metadata
 .DS_Store
 Thumbs.db
+
+# ignore yarn.lock
+yarn.lock
 
 _OLD
 _TRASH

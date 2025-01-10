@@ -1,0 +1,1 @@
+{"version":3,"file":"TEXTGEN_PROVIDERS.js","sourceRoot":"","sources":["../../src/textgen/TEXTGEN_PROVIDERS.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,MAAM,iBAAiB,GAAG,CAAC,YAAY,EAAE,OAAO,CAAU,CAAC","sourcesContent":["export const TEXTGEN_PROVIDERS = [\"openrouter\", \"local\"] as const;\n\nexport type TextgenProviderType = (typeof TEXTGEN_PROVIDERS)[number];\n"]}

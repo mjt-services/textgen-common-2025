@@ -1,0 +1,1 @@
+{"version":3,"file":"ChatMessageTemplate.js","sourceRoot":"","sources":["../../src/textgen/ChatMessageTemplate.ts"],"names":[],"mappings":"","sourcesContent":["export type ChatMessageTemplate = {\n  bos?: string;\n  messageStart: string;\n  messageEnd: string;\n  afterRole: string;\n};\n"]}

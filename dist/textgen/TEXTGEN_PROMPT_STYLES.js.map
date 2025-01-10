@@ -1,0 +1,1 @@
+{"version":3,"file":"TEXTGEN_PROMPT_STYLES.js","sourceRoot":"","sources":["../../src/textgen/TEXTGEN_PROMPT_STYLES.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,MAAM,qBAAqB,GAAG,CAAC,SAAS,EAAE,KAAK,CAAU,CAAC","sourcesContent":["export const TEXTGEN_PROMPT_STYLES = [\"message\", \"raw\"] as const;\nexport type TextgenPromptStyleType = (typeof TEXTGEN_PROMPT_STYLES)[number];\n"]}
