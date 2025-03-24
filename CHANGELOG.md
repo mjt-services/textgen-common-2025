@@ -1,6 +1,9 @@
 # Changelog
 
 
+## 2025-03-24
+- provider types now pure API shape ([4a7c935](https://github.com/mjt-services/textgen-common-2025/commit/4a7c9350a43901943f5073662f456822f3619ef5)) by Matt Taylor
+
 ## 2025-01-14
 - updated message module ([3ba5d46](https://github.com/mjt-services/textgen-common-2025/commit/3ba5d468b095f6598b20fd342871b57f5527c0dc)) by Matt Taylor
 
