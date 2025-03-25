@@ -1,6 +1,6 @@
 {
   "name": "@mjt-services/textgen-common-2025",
-  "version": "2025.3.25-1559",
+  "version": "2025.3.25-1627",
   "sideEffects": false,
   "description": "textgen commmon code",
   "main": "./dist/index.js",

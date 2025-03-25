@@ -32,7 +32,7 @@ export type TextgenConnectionMap = {
                 prompt: string;
             };
         };
-        response: Float64Array;
+        response: Float32Array;
         headers: {
             url?: string;
             authToken?: string;
