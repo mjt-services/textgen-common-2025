@@ -2,6 +2,7 @@
 
 
 ## 2025-03-25
+- return f64array not JSON to get full fp vector ([082a99c](https://github.com/mjt-services/textgen-common-2025/commit/082a99ccc6a4530526ca1ffcd81b155a9c6a59ca)) by Matt Taylor
 - export Embeddings helper ([c9e448a](https://github.com/mjt-services/textgen-common-2025/commit/c9e448acb370e7bbb98b817f886db68b88a9895b)) by Matt Taylor
 - added embedding operation ([1291248](https://github.com/mjt-services/textgen-common-2025/commit/12912484405a522334d373cdfde0f0ad24fbc8cb)) by Matt Taylor
 

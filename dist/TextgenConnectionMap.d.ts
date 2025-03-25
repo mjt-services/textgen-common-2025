@@ -33,7 +33,7 @@ export type TextgenConnectionMap = {
             };
         };
         response: {
-            embedding: number[];
+            embedding: Float64Array;
         };
         headers: {
             url?: string;
