@@ -5,3 +5,4 @@ export * from "./3rd-party/open-router/OpenRouterTextgenResponse";
 export * from "./3rd-party/oobabooga/OobaboogaTextgenRequest";
 export * from "./3rd-party/oobabooga/OobaboogaTextgenResponse";
 export * from "./textgen/Textgens";
+export * from "./embedding/Embeddings";
