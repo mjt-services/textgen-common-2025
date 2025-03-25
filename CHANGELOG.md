@@ -1,6 +1,9 @@
 # Changelog
 
 
+## 2025-03-25
+- added embedding operation ([1291248](https://github.com/mjt-services/textgen-common-2025/commit/12912484405a522334d373cdfde0f0ad24fbc8cb)) by Matt Taylor
+
 ## 2025-03-24
 - provider types now pure API shape ([4a7c935](https://github.com/mjt-services/textgen-common-2025/commit/4a7c9350a43901943f5073662f456822f3619ef5)) by Matt Taylor
 

@@ -24,4 +24,20 @@ export type TextgenConnectionMap = {
             authToken?: string;
         };
     };
+    "embedding.generate": {
+        request: {
+            options?: Partial<{}>;
+            body: {
+                model?: string;
+                prompt: string;
+            };
+        };
+        response: {
+            embedding: number[];
+        };
+        headers: {
+            url?: string;
+            authToken?: string;
+        };
+    };
 };
