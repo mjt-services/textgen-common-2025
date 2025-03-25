@@ -25,25 +25,20 @@ export type TextgenConnectionMap = {
       authToken?: string;
     };
   };
-
-  // "data.upsert": {
-  //   request: { object: DataObject };
-  //   response: string;
-  //   headers: { namespace: string };
-  // };
-  // "data.delete": {
-  //   request: string;
-  //   response: boolean;
-  //   headers: { namespace: string };
-  // };
-  // "data.get": {
-  //   request: string | string[];
-  //   response: { objects: DataObject[] };
-  //   headers: { namespace: string };
-  // };
-  // "data.search": {
-  //   request: string;
-  //   response: { objectIds: string[] };
-  //   headers: { namespace: string };
-  // };
+  "embedding.generate": {
+    request: {
+      options?: Partial<{}>;
+      body: {
+        model?: string;
+        prompt: string;
+      };
+    };
+    response: {
+      embedding: number[];
+    };
+    headers: {
+      url?: string;
+      authToken?: string;
+    };
+  };
 };
