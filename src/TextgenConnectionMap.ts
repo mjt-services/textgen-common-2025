@@ -33,9 +33,7 @@ export type TextgenConnectionMap = {
         prompt: string;
       };
     };
-    response: {
-      embedding: Float64Array;
-    };
+    response: Float64Array;
     headers: {
       url?: string;
       authToken?: string;
