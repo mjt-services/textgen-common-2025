@@ -2,6 +2,7 @@
 
 
 ## 2025-03-28
+- added ask helper to Textgens ([0d49a0d](https://github.com/mjt-services/textgen-common-2025/commit/0d49a0d5d391b4f764b709143775be83549b6edb)) by Matt Taylor
 - added ask helper to Textgens ([08516e4](https://github.com/mjt-services/textgen-common-2025/commit/08516e4b32487f9080ba525953543427fa2a0101)) by Matt Taylor
 
 ## 2025-03-25
