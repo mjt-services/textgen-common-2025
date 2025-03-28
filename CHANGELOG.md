@@ -1,6 +1,9 @@
 # Changelog
 
 
+## 2025-03-28
+- added ask helper to Textgens ([08516e4](https://github.com/mjt-services/textgen-common-2025/commit/08516e4b32487f9080ba525953543427fa2a0101)) by Matt Taylor
+
 ## 2025-03-25
 - float64->float32 ([4e0f3ae](https://github.com/mjt-services/textgen-common-2025/commit/4e0f3ae94e2af9bffa63c1f4dbfd637d4dddf890)) by Matt Taylor
 - simplify embedding return to fp64 array ([7ebe940](https://github.com/mjt-services/textgen-common-2025/commit/7ebe940f367a76a40ead8863b91c4d43a4d0442a)) by Matt Taylor
